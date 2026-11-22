@@ -1,6 +1,5 @@
 #include <atomic>
 #include <cassert>
-#include <string>
 #include <thread>
 #include <array>
 #include <iostream>
